@@ -2,7 +2,8 @@
 <h3 align="center">An aspiring & passionate 
   Full-stack web developer from India</h3>
 <p align="center">
- 
+  
+ <img src="https://komarev.com/ghpvc/?username=Chandan-Gowda-Kalvium&label=Profile%20views&color=green&style=flat" alt="Chandan-Gowda-Kalvium" />
  <img src="https://badges.pufler.dev/visits/Chandan-Gowda-Kalvium/Chandan-Gowda-Kalvium"/> 
  <img src="https://badges.pufler.dev/years/Chandan-Gowda-Kalvium"/>
  <img src="https://badges.pufler.dev/repos/Chandan-Gowda-Kalvium"/>
@@ -12,11 +13,16 @@
 
 <h1>About Me...✍️:-</h1>
 
-<p>
+<p align="justify">
 Hello,
   I'm a 1'st year student pursuing Bachelor's in Computer Applications 🎓 from Lovely Professional University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨💻. I'm deep into Web 🕸️ Development.
+ 
+ <br>
+ <br>
 </p>  
-
+<p align="center" width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandan-Gowda-Kalvium" alt="Chandan-Gowda-Kalvium" /></a> </p>
+<br>
+<br>
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
