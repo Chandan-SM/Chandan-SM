@@ -20,8 +20,7 @@ Hello,
  <br>
  <br>
 </p>  
-<p align="center" width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandan-Gowda-Kalvium" alt="Chandan-Gowda-Kalvium" /></a> </p>
-<br>
+
 <br>
 <p align="center">
  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -36,7 +35,7 @@ Hello,
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
-
+<p align="center" width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandan-Gowda-Kalvium&theme=onedark&row=1" alt="Chandan-Gowda-Kalvium" /></a> </p>
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
