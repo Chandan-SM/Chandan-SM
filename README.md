@@ -66,4 +66,4 @@ Hello,
 </p>
 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
+<p align="center">Do fork 🍴 and star ⭐,If you like it !</p>
