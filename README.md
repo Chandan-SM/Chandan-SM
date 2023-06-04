@@ -5,7 +5,7 @@
 <p align="center">
   
  <img src="https://komarev.com/ghpvc/?username=Chandan-Gowda-Kalvium&label=Profile%20views&color=green&style=flat" alt="Chandan-Gowda-Kalvium" />
- <img src="https://badges.pufler.dev/visits/Chandan-Gowda-Kalvium/Chandan-Gowda-Kalvium"/> 
+<!--  <img src="https://badges.pufler.dev/visits/Chandan-Gowda-Kalvium/Chandan-Gowda-Kalvium"/>  -->
  <img src="https://badges.pufler.dev/years/Chandan-Gowda-Kalvium"/>
  <img src="https://badges.pufler.dev/repos/Chandan-Gowda-Kalvium"/>
  <img src="https://badges.pufler.dev/commits/monthly/Chandan-Gowda-Kalvium" />
