@@ -4,11 +4,11 @@
   Full-stack web developer from India</h3>
 <p align="center">
   
- <img src="https://komarev.com/ghpvc/?username=Chandan-Gowda-Kalvium&label=Profile%20views&color=green&style=flat" alt="Chandan-Gowda-Kalvium" />
-<!--  <img src="https://badges.pufler.dev/visits/Chandan-Gowda-Kalvium/Chandan-Gowda-Kalvium"/>  -->
- <img src="https://badges.pufler.dev/years/Chandan-Gowda-Kalvium"/>
- <img src="https://badges.pufler.dev/repos/Chandan-Gowda-Kalvium"/>
- <img src="https://badges.pufler.dev/commits/monthly/Chandan-Gowda-Kalvium" />
+ <img src="https://komarev.com/ghpvc/?username=Chandan-SM&label=Profile%20views&color=green&style=flat" alt="Chandan-SM" />
+<!--  <img src="https://badges.pufler.dev/visits/Chandan-SM/Chandan-SM"/>  -->
+ <img src="https://badges.pufler.dev/years/Chandan-SM"/>
+ <img src="https://badges.pufler.dev/repos/Chandan-SM"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Chandan-SM" />
 
 </p>
 
@@ -50,13 +50,13 @@ Hello,
  
 <br>
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-Gowda-Kalvium&show_icons=true&locale=en&layout=compact&theme=flat&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan-SM&show_icons=true&locale=en&layout=compact&theme=flat&line_height=0" />
 </p> 
-<p align="center" width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandan-Gowda-Kalvium&theme=flat&row=1" alt="Chandan-Gowda-Kalvium" /></a> </p>
+<p align="center" width="50%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Chandan-SM&theme=flat&row=1" alt="Chandan-SM" /></a> </p>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=Chandan-Gowda-Kalvium&show_icons=true&theme=flat&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-Gowda-Kalvium&hide=assembly,java,shaderlab,kotlin,hlsl&theme=flat">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Chandan-SM&show_icons=true&theme=flat&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan-SM&hide=assembly,java,shaderlab,kotlin,hlsl&theme=flat">
 </p>
 
 <br>
